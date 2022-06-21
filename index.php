@@ -12,6 +12,8 @@
     <?php var_dump($_POST['send']); ?>
 <?php endif; ?>
 
+<?php echo "azim git"; ?>
+
 <form action="">
     <input type="radio" name="bg" value="red">red
     <input type="radio" name="bg" value="blue">blue
